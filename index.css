@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    font-size: 1.3rem;
+}
+
+.center {
+    display: grid;
+    justify-content: center;
+
+}
+
+input {
+    width: 4rem;
+}
